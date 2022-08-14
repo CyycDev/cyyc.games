@@ -144,7 +144,7 @@ input, select, textarea {
 		}
 
 	body {
-		color: #212931;
+		color: #8f8f8f;
 	}
 
 	body, input, select, textarea {
@@ -292,21 +292,21 @@ input, select, textarea {
 	}
 
 	a {
-		color: #212931;
+		color: #ffffff;
 		border-bottom-color: rgba(33, 41, 49, 0.5);
 	}
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #18bfef !important;
+			color: #00ddad !important;
 		}
 
 	strong, b {
-		color: #212931;
+		color: #313121;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #212931;
+		color: #ffffff;
 	}
 
 	blockquote {
@@ -2215,7 +2215,7 @@ input, select, textarea {
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			box-shadow: inset 0 0 0 2px #18bfef;
+			box-shadow: inset 0 0 0 2px #00ddad;
 			color: #18bfef !important;
 		}
 
@@ -2234,7 +2234,7 @@ input, select, textarea {
 			input[type="button"].primary:hover,
 			button.primary:hover,
 			.button.primary:hover {
-				background-color: #18bfef;
+				background-color: #00ddad;
 			}
 
 /* Form */
@@ -2890,7 +2890,7 @@ input, select, textarea {
 	}
 
 	ul.icons li a.icon:hover:before {
-		color: #18bfef;
+		color: #00ddad;
 	}
 
 	ul.icons.alt li .icon:before {
@@ -2898,7 +2898,7 @@ input, select, textarea {
 	}
 
 	ul.icons.alt li a.icon:hover:before {
-		box-shadow: inset 0 0 0 2px #18bfef;
+		box-shadow: inset 0 0 0 2px #00ddad;
 	}
 
 /* Section/Article */
@@ -3197,14 +3197,14 @@ input, select, textarea {
 	}
 
 		.pagination a:hover {
-			color: #18bfef !important;
-			border-color: #18bfef;
+			color: #00ddad !important;
+			border-color: #00ddad;
 			z-index: 1;
 		}
 
 			.pagination a:hover + a,
 			.pagination a:hover + span {
-				border-left-color: #18bfef;
+				border-left-color: #00ddad;
 			}
 
 		.pagination a.active {
@@ -3233,7 +3233,7 @@ input, select, textarea {
 			left: 0;
 			width: 100%;
 			height: 100%;
-			background-color: #212931;
+			background-color: #213122;
 			background-image: url("../../images/overlay.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/bg.jpg");
 			background-size: auto,								auto,														100% auto;
 			background-position: center,								center,														top center;
@@ -3324,7 +3324,7 @@ input, select, textarea {
 
 			#intro a:hover {
 				border-bottom-color: transparent;
-				color: #18bfef !important;
+				color: #00ddad !important;
 			}
 
 		#intro strong, #intro b {
@@ -3363,7 +3363,7 @@ input, select, textarea {
 			#intro input[type="button"]:hover,
 			#intro button:hover,
 			#intro .button:hover {
-				box-shadow: inset 0 0 0 2px #18bfef;
+				box-shadow: inset 0 0 0 2px #00ddad;
 				color: #18bfef !important;
 			}
 
@@ -3382,7 +3382,7 @@ input, select, textarea {
 				#intro input[type="button"].primary:hover,
 				#intro button.primary:hover,
 				#intro .button.primary:hover {
-					background-color: #18bfef;
+					background-color: #00ddad;
 				}
 
 		#intro h1 {
@@ -3533,7 +3533,7 @@ input, select, textarea {
 
 			#header a:hover {
 				border-bottom-color: transparent;
-				color: #18bfef !important;
+				color: #00ddad !important;
 			}
 
 		#header strong, #header b {
@@ -3577,8 +3577,8 @@ input, select, textarea {
 		}
 
 			#header .logo:hover {
-				border-color: #18bfef !important;
-				color: #18bfef !important;
+				border-color: #00ddad !important;
+				color: #00ddad !important;
 			}
 
 		@media screen and (max-width: 980px) {
@@ -3756,7 +3756,7 @@ input, select, textarea {
 /* Main */
 
 	#main {
-		background-color: #ffffff;
+		background-color: #0e0d0d;
 		position: relative;
 		margin: 0 auto;
 		width: calc(100% - 4rem);
